@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: 9df69fe5095e7454d8a014e8fac60803
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1225490258336482882
+    second: kent_idle_0
+  - first:
+      213: 3783470200191913941
+    second: kent_moveleft_0
+  - first:
+      213: 8038199617025894885
+    second: kent_moveleft_1
+  - first:
+      213: -9155002378049189246
+    second: kent_moveleft_2
+  - first:
+      213: 5865097179562401634
+    second: kent_moveleft_3
+  - first:
+      213: -844168277635368525
+    second: kent_moveleft_4
+  - first:
+      213: 5145059342263201218
+    second: kent_moveleft_5
+  - first:
+      213: -23515949254121500
+    second: kent_movedown_0
+  - first:
+      213: -7945213449594485601
+    second: kent_movedown_1
+  - first:
+      213: -6700772088468189232
+    second: kent_movedown_2
+  - first:
+      213: -7934724414622268550
+    second: kent_movedown_3
+  - first:
+      213: 2496883258546605928
+    second: kent_movedown_4
+  - first:
+      213: 8516884672374948932
+    second: kent_movedown_5
+  - first:
+      213: 3988037646189607427
+    second: kent_moveup_0
+  - first:
+      213: 7963226324305989063
+    second: kent_moveup_1
+  - first:
+      213: 6227261749976124430
+    second: kent_moveup_2
+  - first:
+      213: -2148471645190722796
+    second: kent_moveup_3
+  - first:
+      213: -9169148317718600466
+    second: kent_moveup_4
+  - first:
+      213: -644468310619129682
+    second: kent_moveup_5
+  - first:
+      213: -8453820698329013377
+    second: kent_moveright_0
+  - first:
+      213: 515821906981372662
+    second: kent_moveright_1
+  - first:
+      213: 430061839776428287
+    second: kent_moveright_2
+  - first:
+      213: 2614333555519352607
+    second: kent_moveright_3
+  - first:
+      213: -3521830345910457904
+    second: kent_moveright_4
+  - first:
+      213: -1037789093543066091
+    second: kent_moveright_5
+  - first:
+      213: 6720666054838059749
+    second: kent_idle_
+  - first:
+      213: -3885561632367968138
+    second: kent_idle_1
+  - first:
+      213: 7397274231323283262
+    second: kent_idle_2
+  - first:
+      213: 2408095646534408121
+    second: kent_idle_3
+  - first:
+      213: -6779876416760783804
+    second: kent_idle_4
+  - first:
+      213: 4026549472872424799
+    second: kent_idle_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kent_idle_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1872
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9f62c5a1f2efee0800000000000000
+      internalID: -1225490258336482882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveleft_0
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1681
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df07b4f916918430800000000000000
+      internalID: 3783470200191913941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveleft_1
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1681
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96286a6fb6d8f60800000000000000
+      internalID: 8038199617025894885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveleft_2
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1681
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a858aa7d5e2f080800000000000000
+      internalID: -9155002378049189246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveleft_3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1681
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f56f86fc2056150800000000000000
+      internalID: 5865097179562401634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveleft_4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1681
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9f3e09c69e844f0800000000000000
+      internalID: -844168277635368525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveleft_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1681
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd27eb463ce66740800000000000000
+      internalID: 5145059342263201218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_movedown_0
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7e6266e547caff0800000000000000
+      internalID: -23515949254121500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_movedown_1
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94c340967eecb190800000000000000
+      internalID: -7945213449594485601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_movedown_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df400aa9431203a0800000000000000
+      internalID: -6700772088468189232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_movedown_3
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7302d35f2232e190800000000000000
+      internalID: -7934724414622268550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_movedown_4
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f4a473816b6a220800000000000000
+      internalID: 2496883258546605928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_movedown_5
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444c0e13c7d023670800000000000000
+      internalID: 8516884672374948932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveup_0
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a34041c1b585730800000000000000
+      internalID: 3988037646189607427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveup_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd4c46a620138e60800000000000000
+      internalID: 7963226324305989063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveup_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c44b2719dab6650800000000000000
+      internalID: 6227261749976124430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveup_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b686afb681f22e0800000000000000
+      internalID: -2148471645190722796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveup_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4238d6f24a0c080800000000000000
+      internalID: -9169148317718600466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveup_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1681
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8fc8c6c736e07f0800000000000000
+      internalID: -644468310619129682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveright_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1681
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7321497ddefdaa80800000000000000
+      internalID: -8453820698329013377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveright_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1681
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f24dfc9a41982700800000000000000
+      internalID: 515821906981372662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveright_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1681
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff03357f6f2e7f500800000000000000
+      internalID: 430061839776428287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveright_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1681
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f6d15748af74420800000000000000
+      internalID: 2614333555519352607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveright_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1681
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e0d8b5f1ff1fc0800000000000000
+      internalID: -3521830345910457904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_moveright_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1681
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516479f51580991f0800000000000000
+      internalID: -1037789093543066091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_idle_
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1776
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e206a45b2a944d50800000000000000
+      internalID: 6720666054838059749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_idle_1
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1776
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67002dd2846b31ac0800000000000000
+      internalID: -3885561632367968138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_idle_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1776
+        width: 48
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5000027, y: 0.49189615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fcc2098b568a660800000000000000
+      internalID: 7397274231323283262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_idle_3
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1777
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b719dc5b364b6120800000000000000
+      internalID: 2408095646534408121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1777
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cdcedf15a09e1a0800000000000000
+      internalID: -6779876416760783804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kent_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1777
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55e819796d21e730800000000000000
+      internalID: 4026549472872424799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 66e27b9eea8dc8e44853d2073a948102
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
